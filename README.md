@@ -5,14 +5,11 @@ Code release for "Transferring Transfer Function (TTF): A Guided Approach to Tra
 ## Concept
 Visualizing volumetric data is a key tool for effective communication, with the transfer function playing a pivotal role in deciding what aspects of the volume to display and how.
 
-https://github.com/user-attachments/assets/823b8f6f-cc1c-4822-9101-dab9d6a4955e
+![transfer-function-brain-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4f5122f8-8462-4fda-accc-f35d19a71fd2)
 
 However, in MRI volumes, the data values can vary significantly due to factors like manufacturer differences and patient-specific details. As a result, a transfer function designed for one volume may not be effective for another. In this project, our TTF method is employed to optimize and visualize brain MRIs based on examples. By providing a reference volume and its transfer function, the method can visualize new, unseen MRI volumes.
 
-
-https://github.com/user-attachments/assets/0d749412-78ab-4e57-9574-baa59ff959df
-
-
+![brain_visualization-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/8a737397-d389-4048-9bfb-08f845eba6f0)
 
 
 ## System Specification
